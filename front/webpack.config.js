@@ -19,7 +19,9 @@ module.exports = {
 		js: './index',
 		vendor:[
 			'react',
-			'react-dom'
+			'react-dom',
+			'lodash',
+			// 'moment'
 		]
 	},
 	output: {
